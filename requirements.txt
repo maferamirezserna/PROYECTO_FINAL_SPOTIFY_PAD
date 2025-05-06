@@ -1,0 +1,10 @@
+lazypredict
+rdt
+numpy
+matplotlib
+pandas
+scikit-learn
+seaborn
+scipy
+missingno
+sweetviz
