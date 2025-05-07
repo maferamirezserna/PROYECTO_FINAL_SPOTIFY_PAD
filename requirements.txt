@@ -1,10 +1,24 @@
-lazypredict
-rdt
-numpy
-matplotlib
-pandas
-scikit-learn
-seaborn
-scipy
-missingno
-sweetviz
+
+
+# ✔️ Modelos de regresión automática
+lazypredict  # Automatiza la comparación entre múltiples modelos de regresión o clasificación sin necesidad de programarlos uno a uno.
+
+# ✔️ Transformación automática de datos
+rdt  # 'RDT' (Reverse Data Transformation) se usa para preprocesar los datos automáticamente: detecta el tipo de variable y aplica la transformación adecuada (ideal para pipelines con ML).
+
+# ✔️ Manejo y transformación de datos
+numpy  # Librería base para operaciones numéricas en arreglos (vectores, matrices), muy utilizada en cálculos científicos y de ML.
+pandas  # Manipulación y análisis de datos estructurados (DataFrames), ideal para cargar, limpiar y transformar datasets.
+
+# ✔️ Visualización
+matplotlib  # Librería de gráficos básicos (líneas, barras, dispersión) para análisis exploratorio y presentación de resultados.
+seaborn  # Complemento de matplotlib con estilo mejorado y gráficos estadísticos (correlaciones, distribuciones, etc.).
+missingno  # Visualización gráfica de valores faltantes en un DataFrame, útil para limpieza de datos.
+sweetviz  # Genera análisis exploratorios automáticos en HTML, incluyendo comparaciones entre datasets (ideal para explorar el dataset al inicio del proyecto).
+
+# ✔️ Machine Learning
+scikit-learn  # Librería principal de modelos de ML en Python (regresión, clasificación, métricas, validación cruzada, escalamiento, etc.).
+
+# ✔️ Estadística y funciones científicas
+scipy  # Proporciona herramientas para estadística avanzada, álgebra lineal, optimización, y análisis de señales. Se usa a menudo junto con NumPy y scikit-learn.
+
